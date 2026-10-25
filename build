@@ -1,1 +1,7 @@
-g++ -o font-sel `pkg-config --cflags --libs gtk+-3.0` main.cpp
+#!/bin/sh
+set -e
+cd "$(dirname "$0")"
+g++ -std=c++17 -O2 -Wall -Wextra \
+    $(pkg-config --cflags gtk4) \
+    -o font-sel main.cpp \
+    $(pkg-config --libs gtk4)
