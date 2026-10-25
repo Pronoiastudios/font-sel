@@ -8,6 +8,7 @@ A personal fork of [Euro20179/font-sel](https://github.com/Euro20179/font-sel), 
 * It is a personal fork, not a contribution. It will not be merged upstream and nothing here is meant to go back as a pull request.
 * Everything after the fork point was written with an AI coding agent. I'm not a programmer and I can't read the code, so I can't vouch for any of it: no warranty, no support, and please don't rely on it for anything. If you want the original, use upstream.
 * Upstream has no license file, so no license is granted here either.
+* If Euro20179 ever asks for this to be taken down, down it goes.
 
 ## What it does
 
